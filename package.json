@@ -1,0 +1,23 @@
+{
+  "name": "site_html_css",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/burakovas/site_HTML_CSS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/burakovas/site_HTML_CSS/issues"
+  },
+  "homepage": "https://github.com/burakovas/site_HTML_CSS#readme",
+  "devDependencies": {
+    "eslint": "^5.4.0",
+    "eslint-config-google": "^0.9.1"
+  }
+}

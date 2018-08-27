@@ -386,6 +386,11 @@
   width: 100%;
 }
 
+.checkout a {
+  text-decoration: none;
+  vertical-align: center;
+}
+
 .grandt span {
   color: #f16d7f;
   font-size: 16px;
