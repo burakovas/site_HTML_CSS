@@ -6,6 +6,10 @@
     <link rel="stylesheet" href="styles/style.css">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
     <link rel="stylesheet" href="styles/styleSHC.css">
+
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="js/2basket.js"></script>
 </head>
 <body>
 <header class="header container">
@@ -88,7 +92,7 @@
         </ul>
     </div>
 </nav>
-<!--     Shopping Cart start            -->
+<!--     Chopping Cart start            -->
 
 <div class="new-arriv">
     <div class="new-arriv-content container">
@@ -130,7 +134,7 @@
             <input type="number" placeholder="1">
             <p>FREE</p>
             <p class="cart-pr">$450</p>
-            <a href="#"><img class="tovdel" src="img/del.png" alt="del"></a>
+            <a href="#"><img class="tovdel" src="img/del.png" alt="del" data-tovid="123"></a>
         </div>
     </div>
 
@@ -148,7 +152,7 @@
             <input type="number" placeholder="1">
             <p>FREE</p>
             <p class="cart-pr">$450</p>
-            <a href="#"><img class="tovdel" src="img/del.png" alt="del"></a>
+            <a href="#"><img class="tovdel" src="img/del.png" alt="del" data-tovid="123"></a>
         </div>
     </div>
 
@@ -166,7 +170,7 @@
             <input type="number" placeholder="1">
             <p>FREE</p>
             <p class="cart-pr">$450</p>
-            <a href="#"><img class="tovdel" src="img/del.png" alt="del"></a>
+            <a href="#"><img class="tovdel" src="img/del.png" alt="del" data-tovid="123"></a>
         </div>
     </div>
 
@@ -202,13 +206,13 @@
         <form class="checkout">
             <p class="subt">SUB TOTAL $900</p>
             <p class="grandt">GRAND TOTAL <span>$900</span></p>
-            <a href="checkout.html"><div id="butCkeckout" >PROCEED TO CHECKOUT</div></a> 
+            <button type="submit" id="butCkeckout">PROCEED TO CHECKOUT</button>
         </form>
 
     </div>
 </section>
 
-<!--     Shopping Cart Finish            -->
+<!--     Chopping Cart Finish            -->
  
 
 <section class="subsc">

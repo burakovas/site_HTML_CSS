@@ -1,0 +1,91 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "MANGO PEOPLE T-SHIRT 1",
+      "price": 100,
+      "image": "Layer2.png"
+    },
+    {
+      "id": 2,
+      "name": "MANGO PEOPLE T-SHIRT 2",
+      "price": 300,
+      "image": "Layer3.png"
+    },
+    {
+      "id": 3,
+      "name": "MANGO PEOPLE T-SHIRT 3",
+      "price": 500,
+      "image": "Layer4.png"
+    },
+    {
+      "id": 4,
+      "name": "MANGO PEOPLE T-SHIRT 3",
+      "price": 500,
+      "image": "Layer5.png"
+    },
+    {
+      "id": 5,
+      "name": "MANGO PEOPLE T-SHIRT 3",
+      "price": 500,
+      "image": "Layer6.png"
+    },
+    {
+      "id": 6,
+      "name": "MANGO PEOPLE T-SHIRT 3",
+      "price": 500,
+      "image": "Layer7.png"
+    },
+    {
+      "id": 7,
+      "name": "MANGO PEOPLE T-SHIRT 3",
+      "price": 500,
+      "image": "Layer8.png"
+    },
+    {
+      "id": 8,
+      "name": "MANGO PEOPLE T-SHIRT 3",
+      "price": 500,
+      "image": "Layer9.png"
+    }
+  ],
+  "cart": [
+    {
+      "id": "12",
+      "price": "100",
+      "name": "Трусы",
+      "quantity": "1"
+    },
+    {
+      "id": "23",
+      "price": "300",
+      "name": "Носки",
+      "quantity": "1"
+    },
+    {
+      "id_product": "123",
+      "quantity": "1",
+      "id": "123"
+    },
+    {
+      "id_product": "123",
+      "quantity": "1",
+      "id": "2"
+    },
+    {
+      "id_product": "123",
+      "quantity": "1",
+      "id": "1"
+    },
+    {
+      "id_product": "123",
+      "quantity": "1",
+      "id": "3"
+    },
+    {
+      "id_product": "123",
+      "quantity": "1",
+      "id": "8"
+    }
+  ]
+}
